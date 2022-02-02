@@ -1,0 +1,58 @@
+Card Collection
+{
+'_id': 12345,
+'name': 'Day/'s Undoing',
+'shortcode': 'ORI',
+'premium': 'No',
+'rarity': 'Mythic'
+'collector_id': '10/272'
+'quantity': {
+	'bot1': 4,
+	'bot2': 3
+},
+'sell': 1.75,
+'buy': 1.5
+}
+
+Tick Data Collection
+{
+'name': 'Day/'s Undoing',
+'shortcode': 'ORI',
+'premium': 'No',
+'vendor': 'supernovabots',
+'timestamp': datetime.datetime.utcnow()
+}
+
+# tick data sorted by (expansion, name, vendor, timestamp)
+db.pricePoints.create_index([
+('shortcode',pymongo.ASCENDING),
+('name',pymongo.ASCENDING),
+('vendor',pymongo.ASCENDING),
+('timestamp',pymongo.DESCENDING)
+])
+
+Customers Collection
+{
+'_id': 'username',
+'credit': 0.1231
+'trade_history': [session_id,...]
+}
+
+Sessions Collection
+{
+'_id': 123456,
+'username': 'customerX'
+'bot': 'botZ3'
+'time start': datetime.datetime.utcnow(1),
+'time end': datetime.datetime.utcnow(2),
+'stock in': {
+	'cards': [(qty, mtgo_id),...], 
+	'tix': 5,
+	'credit': 0.1234
+}
+'stock out': {
+	'cards': [(qty, mtgo_id),...],
+	'tix': 5,
+	'credit': 0.1234
+}
+}

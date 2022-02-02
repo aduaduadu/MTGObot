@@ -1,0 +1,93 @@
+EXPANSIONS = [
+['DTK', [
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=2',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=3',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=4',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=5',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=6',
+'http://www.mtgotraders.com/store/dragons_of_tarkir.html?page=7'
+]],
+['FRF', [
+'http://www.mtgotraders.com/store/fate_reforged.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss2.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss3.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss4.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss5.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss6.html',
+'http://www.mtgotraders.com/store/fate_reforged-ss7.html'
+]],
+['KTK', [
+'http://www.mtgotraders.com/store/khans_of_tarkir.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss2.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss3.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss4.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss5.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss6.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss7.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss8.html',
+'http://www.mtgotraders.com/store/khans_of_tarkir-ss9.html'
+]],
+['M15', [
+'http://www.mtgotraders.com/store/magic2015.html',
+'http://www.mtgotraders.com/store/magic2015-ss2.html',
+'http://www.mtgotraders.com/store/magic2015-ss3.html',
+'http://www.mtgotraders.com/store/magic2015-ss4.html',
+'http://www.mtgotraders.com/store/magic2015-ss5.html',
+'http://www.mtgotraders.com/store/magic2015-ss6.html',
+'http://www.mtgotraders.com/store/magic2015-ss7.html',
+'http://www.mtgotraders.com/store/magic2015-ss8.html',
+'http://www.mtgotraders.com/store/magic2015-ss9.html',
+'http://www.mtgotraders.com/store/magic2015-ss10.html'
+]],
+['JOU', [
+'http://www.mtgotraders.com/store/journey_into_nyx.html',
+'http://www.mtgotraders.com/store/journey_into_nyx-ss2.html',
+'http://www.mtgotraders.com/store/journey_into_nyx-ss3.html',
+'http://www.mtgotraders.com/store/journey_into_nyx-ss4.html',
+'http://www.mtgotraders.com/store/journey_into_nyx-ss5.html',
+'http://www.mtgotraders.com/store/journey_into_nyx-ss6.html'
+]],
+['BNG', [
+'http://www.mtgotraders.com/store/born_of_the_gods.html',
+'http://www.mtgotraders.com/store/born_of_the_gods-ss2.html',
+'http://www.mtgotraders.com/store/born_of_the_gods-ss3.html',
+'http://www.mtgotraders.com/store/born_of_the_gods-ss4.html',
+'http://www.mtgotraders.com/store/born_of_the_gods-ss5.html',
+'http://www.mtgotraders.com/store/born_of_the_gods-ss6.html'
+]],
+['THS', [
+'http://www.mtgotraders.com/store/theros.html',
+'http://www.mtgotraders.com/store/theros-ss2.html',
+'http://www.mtgotraders.com/store/theros-ss3.html',
+'http://www.mtgotraders.com/store/theros-ss4.html',
+'http://www.mtgotraders.com/store/theros-ss5.html',
+'http://www.mtgotraders.com/store/theros-ss6.html',
+'http://www.mtgotraders.com/store/theros-ss7.html',
+'http://www.mtgotraders.com/store/theros-ss8.html',
+'http://www.mtgotraders.com/store/theros-ss9.html'
+]],
+['VMA', [
+'http://www.mtgotraders.com/store/vintage_masters.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss2.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss3.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss4.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss5.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss6.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss7.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss8.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss9.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss10.html',
+'http://www.mtgotraders.com/store/vintage_masters-ss11.html'
+]],
+['MMA', [
+'http://www.mtgotraders.com/store/modern_masters.html',
+'http://www.mtgotraders.com/store/modern_masters-ss2.html',
+'http://www.mtgotraders.com/store/modern_masters-ss3.html',
+'http://www.mtgotraders.com/store/modern_masters-ss4.html',
+'http://www.mtgotraders.com/store/modern_masters-ss5.html',
+'http://www.mtgotraders.com/store/modern_masters-ss6.html',
+'http://www.mtgotraders.com/store/modern_masters-ss7.html',
+'http://www.mtgotraders.com/store/modern_masters-ss8.html'
+]]
+]

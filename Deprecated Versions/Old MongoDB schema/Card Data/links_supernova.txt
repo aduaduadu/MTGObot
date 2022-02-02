@@ -1,0 +1,8 @@
+Regular Cards
+http://supernovabots.com/prices_0.txt
+
+Foil Cards
+http://supernovabots.com/prices_3.txt
+
+Boosters
+http://supernovabots.com/prices_6.txt

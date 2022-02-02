@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="61623" Quantity="4" Sideboard="false" Name="Built to Last" />
+  <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
+  <Cards CatID="63616" Quantity="4" Sideboard="false" Name="Cartouche of Solidarity" />
+  <Cards CatID="65026" Quantity="4" Sideboard="false" Name="Demystify" />
+</Deck>
